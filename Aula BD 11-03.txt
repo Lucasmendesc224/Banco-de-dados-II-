@@ -2,3 +2,19 @@
 -- professor Molina
 
 -- comando SELECT com where customizado
+
+
+
+
+
+-- comando para selecionar todos os registros da tabela medicos 
+select *
+from medicos;
+
+select nome, idade
+from medicos;
+
+
+select *
+from medicos
+where codm = 3;
