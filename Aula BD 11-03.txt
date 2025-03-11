@@ -1,4 +1,4 @@
 -- Aula 11-01-2025
 -- professor Molina
 
--- comando SELECT com where
+-- comando SELECT com where customizado
